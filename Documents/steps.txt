@@ -1,0 +1,6 @@
+1:crop
+	Run Aconvert on your plates to get them ready
+2:generate Intensty values
+	Use Magic plate to generate the intesnity values
+3:Generate Interaction list
+	Process the results with Stats_matrix_lie.pl
